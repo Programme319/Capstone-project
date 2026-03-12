@@ -1,6 +1,18 @@
-# EDITS
- 1 - We had edited the #system-request file
-        - synchronized the business needs & business requirements.
+## EDITS:
+   ## 1 - We had edited the "system request" task
+   
+          - synchronized the business needs & business requirements.
+  
+  
+  ## 2 - We edited "feasibility study" task
+          - added technical Feasibility .
+          
+          - added Economic Feasibility.
+          
+          - added operational feasibility .
+             • management
+             • administrator
+             • others
 
-
-2 - We edited #feasibility-study
+<br><br>
+## NEW tasks :       
