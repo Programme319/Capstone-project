@@ -15,4 +15,7 @@
              • others
 
 <br><br>
-## NEW tasks :       
+## INTERVIEW tasks :       
+            - we made two interviews ( craftman - client ) .
+            - figuered what the project needs .
+            - made a summery paragrapgh for the interview .
