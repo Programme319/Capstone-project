@@ -1,6 +1,4 @@
 # EDITS
- 1 - We had edited the #system-request file
-        - synchronized the business needs & business requirements.
-
-
-2 - We edited #feasibility-study
+ the difference between week-2 and week-3:
+  - we edited the interview task
+  - we added the ERD task
